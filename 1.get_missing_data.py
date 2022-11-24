@@ -15,7 +15,7 @@ driver = webdriver.Chrome(service=service)
 
 # Test with 1 FIFA World Cup Edition (1982)
 
-web = 'https://en.wikipedia.org/wiki/1982_FIFA_World_Cup'
+web = 'https://en.wikipedia.org/wiki/2010_FIFA_World_Cup'
 
 driver.get(web)
 
@@ -27,9 +27,9 @@ score=[]
 away=[]
 
 for match in matches:
-    home.append(match.find_elements(by='xpath', value='./td[1]'))
-    score.append(match.find_elements(by='xpath', value='./td[2]'))
-    away.append(match.find_elements(by='xpath', value='./td[3]'))
+    home.append(match.find_element(by='xpath', value='./td[1]').text)
+    score.append(match.find_element(by='xpath', value='./td[2]').text)
+    away.append(match.find_element(by='xpath', value='./td[3]').text)
     
 dict_football={'home': home,'score':score,'away':away}
 df_football = pd.DataFrame(dict_football)
@@ -53,7 +53,7 @@ years = [
 ]
 
 def get_missing_data(year):
-    web = 'https://en.wikipedia.org/wiki/{year}_FIFA_World_Cup'
+    web = f'https://en.wikipedia.org/wiki/{year}_FIFA_World_Cup'
     driver.get(web)
 
     matches = driver.find_elements(by='xpath', value='//td[@align="right"]/.. | //td[@style="text-align:right;"]/..')
@@ -63,9 +63,9 @@ def get_missing_data(year):
     away=[]
 
     for match in matches:
-        home.append(match.find_elements(by='xpath', value='./td[1]').text)
-        score.append(match.find_elements(by='xpath', value='./td[2]').text)
-        away.append(match.find_elements(by='xpath', value='./td[3]').text)
+        home.append(match.find_element(by='xpath', value='./td[1]').text)
+        score.append(match.find_element(by='xpath', value='./td[2]').text)
+        away.append(match.find_element(by='xpath', value='./td[3]').text)
 
     dict_football={'home': home,'score':score,'away':away}
     df_football = pd.DataFrame(dict_football)
@@ -74,11 +74,11 @@ def get_missing_data(year):
     return df_football
 
 
-fifa = [get_misssing_data(year) for year in years]
+fifa = [get_missing_data(year) for year in years]
 
 driver.quit()
 
-df_fifa = pd.concat(fifa)
+df_fifa = pd.concat(fifa,ignore_index=True)
 df_fifa.to_csv('data/fifa_worldcup_missing_data.csv', index=False)
 
 
