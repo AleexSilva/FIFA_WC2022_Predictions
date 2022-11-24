@@ -63,9 +63,9 @@ def get_missing_data(year):
     away=[]
 
     for match in matches:
-        home.append(match.find_elements(by='xpath', value='./td[1]'))
-        score.append(match.find_elements(by='xpath', value='./td[2]'))
-        away.append(match.find_elements(by='xpath', value='./td[3]'))
+        home.append(match.find_elements(by='xpath', value='./td[1]').text)
+        score.append(match.find_elements(by='xpath', value='./td[2]').text)
+        away.append(match.find_elements(by='xpath', value='./td[3]').text)
 
     dict_football={'home': home,'score':score,'away':away}
     df_football = pd.DataFrame(dict_football)

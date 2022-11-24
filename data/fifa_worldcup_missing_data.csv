@@ -1,49 +1,413 @@
 home,score,away,year
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""5c5964ba-581d-4609-b2a0-76368a33c35b"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""c33c3298-0557-4668-942f-9f5bf0f72e62"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""5f08822a-4dd9-499f-b8cc-33b8183d27f4"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""94f164b8-8c49-4273-8e93-03c8e1cf53db"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""07aaec34-e54c-4a07-9fab-80b2ad341715"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""9e6034fc-f664-44db-98df-9e3dc66173a8"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""938ae404-e16c-41ee-9e73-726bb1345e8f"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""b07e6644-9a17-470b-b889-39fd124a1e57"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""cd66e0da-32f8-40e6-9869-98c341a8f730"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""8058c7ba-4f21-428c-9bfa-64fdb156f1c9"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""0bb78b58-67d3-4c23-94c6-f2d62689645b"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""631d7aa4-909d-46e0-8d25-e9ab568fc8dc"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""6dbc5954-6d3a-48cc-a282-ff7818d072e5"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""fe0b1eba-807c-4e47-8005-85af474a1940"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""ff6cf6f0-5817-424e-ba23-889b66fc020a"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""4530bb7f-bfa7-42bf-8fef-13e9e4bc6c6c"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""380b6121-4d6c-47d1-93cc-fa460249ec82"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""db628b6e-34df-4b28-837f-352c42a3b4d3"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""43464f1c-33de-486c-b953-aa13729b4a06"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""9f6edda9-5f3e-42a1-985e-15b87216ff43"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""72374d50-ce20-4c0e-b5a4-e77a0ffa7bb6"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""54179ceb-79e3-4e24-9c47-c8d3d68d98a0"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""821e31dc-8b9d-4de4-8391-e7387c02db44"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""edc5fc3e-a1e7-468c-9942-4a37faabc91c"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""3898b048-ed5d-460c-9fee-03e928905aa8"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""2b8a55ea-2fe1-4e1b-905d-7ca01293bca4"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""bcffa84b-cef3-4f16-ba5c-b72f44bbdc07"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""dc594e98-d888-478a-9e86-572c0aa7da6d"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""676064ca-ec1a-4786-bcfd-c14da7249b7f"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""ee462341-95a0-483f-8190-33f6f317423a"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""0b735829-3e43-40ea-8505-b9ee0af6a070"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""2baf46b4-b27b-4718-b11d-f1ee12a2dc71"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""235076d3-2dd3-4070-9a76-92b676ebe946"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""7a4dfe2b-ba6a-4be1-82f7-c04338d66a13"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""53d19c59-279c-4ce3-a342-33178e7574bb"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""64063fcb-6a02-4b72-a17b-c65d18fd190a"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""7f4e73a7-6bf6-4d28-bc0d-fff987c99fd9"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""8a84a122-b470-4b1c-9078-b2052c14e65a"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""c65fc0d2-50ff-44d8-9ea8-f689f514aa0d"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""c861a121-9f31-4f25-8a8b-9e33e3cda299"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""2525628e-93b9-42df-8917-16459b388f93"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""60956865-35ea-4294-aebd-34d38221626f"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""9fc6fdf8-6230-491d-abad-01368f91d59b"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""66d174a2-3ed8-4528-aa9a-06542d59efc4"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""cf139413-68f1-4baa-9b96-87c96bd3856c"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""c8f33f5c-40b3-4775-b5b5-bd1646d5ef8e"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""8ffcb6c9-748d-4dcb-8be0-3a5184234b26"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""163b2a2a-94e0-44c2-8bf6-d0689040c848"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""b5da50ba-8ad6-48b1-a551-f0df062b7470"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""59f99bb0-2667-462a-b396-896efbf9e149"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""486cc8a4-d008-46e7-b752-05f929ed938a"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""498e0d4c-0bc7-4f6f-9558-a9909af534cb"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""526ebc9f-5dc1-44a4-9a00-4e5ed889917e"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""e3a22090-3e75-4d46-b894-4b5a65e9e4cf"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""c781945a-1e82-41d1-b796-76bf577b6989"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""02bcb743-13f5-4392-ae75-4655805ae783"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""a0eada36-c4cc-47fa-9a1c-1ae68cb42cad"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""328d02a7-2629-4ea0-b2ed-4f5adc83330f"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""b26e58c7-aceb-4b61-b551-3c35ddd1b83d"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""fb57341f-7129-4b6d-81b1-71810ef0b183"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""adbef33a-421b-4cd6-84a0-4160bebc22ac"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""32f96c48-7c05-4bcc-b3f5-83e0337adc93"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""4890caf1-fa97-4e73-8b4d-9397d13dc491"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""982f8087-5dfe-4079-9cd7-f6aafe8a7ed9"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""8414062a-3d75-482c-b26b-d57760eaef84"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""76a61b85-8a6f-47f3-ac53-6641e10a4348"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""c14a0a6d-c54b-457e-88c3-149cd2a1d5fa"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""076ec224-2617-4fa9-9132-9cbb91f09c08"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""c333409d-277d-4111-9254-03d968f747f2"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""582e4b67-7b56-4683-82b1-8d4ea02173b8"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""9149f1d0-0f40-454c-8782-cde7966a8d8c"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""ab6753bb-752d-4cd5-8fe3-0f7834d693c8"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""8819969c-b6b3-4b53-b344-8448e3251691"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""5e4ab784-c45f-47f3-a203-417b1dfd17f6"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""df58c0a8-3240-48e0-b575-822f7e0411f1"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""ebb03c8e-39ef-4792-b77f-4a55c791422d"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""12af3ab1-5e8f-4323-ae61-2256839b2ac1"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""b4ea90a0-4e21-4c65-a8c4-a4717d33c5a2"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""78600de8-37bd-4238-bae5-737aaefaec78"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""be838bd5-0f96-4d6e-b014-ac619dbae505"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""dda96756-ca51-47f4-8381-e1fd7b3d8d1f"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""9639c35e-afcb-4a90-a1b5-012c587b1615"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""10616d7c-616e-4e5d-8e09-4aa5a4d6ea41"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""3e6e7645-d896-4bfc-9f71-ce473eee11e0"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""e8831484-79b1-4187-b86a-348a62000a52"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""e1ff9e75-d29e-4358-96e0-6ad0677259f3"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""55b318fa-bf75-4354-9594-d2e0f1345a73"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""83200730-b8f6-4f0c-9cd8-4bf0388c9423"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""714e9078-beeb-4adb-be76-1b087159622c"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""3cb6dedf-0c20-4cdd-9a6b-0a75cdc64620"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""09b3d3e7-6862-442a-83c5-f0a3e2959afc"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""3311f44b-8a00-4da1-a5dc-720ae190f8f4"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""b2e006a4-aba3-4bb1-9743-4b3de6d407a5"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""3d50634a-b254-4da3-bd03-b611dee9ff72"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""b6af3a8a-808c-425d-b8da-a4f01e3fd95f"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""7eb3c6b7-35cb-4406-bdcc-225dcf7e8904"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""44c4131d-d8a3-4171-91d9-b0621ee29a32"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""af23adaf-e882-48df-b841-2e89a17e6c34"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""c156938d-9a0d-4f3f-8381-555a67515414"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""4aaa37bf-97f1-4f2f-b578-b4aa63195f66"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""83347daf-93df-4eae-967f-a55cc421fdd1"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""b3b5edd8-13d7-4853-b8ee-7a101054c1bd"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""22be7704-8758-4c5b-8596-b86de6f6ea5d"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""e3b6479e-6273-4299-a90f-728c596c372b"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""78556e37-b156-4c22-b360-c9123ff25e16"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""dd55bb08-16f9-4eaa-a383-dd57faebb760"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""443e7924-609d-4e7f-9ca1-72bb5547ae25"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""e728c352-201d-4c42-8149-61f0921e6f27"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""535c08b4-e603-4d56-82a4-d48ce1b7e6e9"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""e96dc5b1-cfb0-491b-95eb-6bbb67b357d8"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""9ae2e1d8-5a4b-45d2-9292-2442dcf27c4c"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""cd7ff415-8122-4781-8e02-ef6a4bbc0b2d"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""0ea273be-e6fe-4547-89d3-324410da8adb"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""3b34e24d-dbfc-4ed4-ae35-1cbb107ac007"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""57794818-2fe9-4efd-bb29-2ab7e510d028"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""20852150-9aa6-4031-8bc9-33135497fa50"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""8e38c6f4-cbc3-4908-87d5-822c95729acb"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""b60f117a-33f7-451e-b9a5-fb5b2dd59c13"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""1e4219dd-e749-4e69-a2f1-bfaaef66618f"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""e3e79c1e-5302-4e3a-9720-082bc6385725"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""a6be1daa-154e-4932-8c4e-ac5dca75a418"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""752bd9cb-9c30-44d0-8e55-b96bf0ba527c"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""063bf7ba-0cf0-40c2-8073-18a8ce1531e9"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""e5357f22-2cfa-4ddb-826e-d90b38b86789"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""b6f648be-7d0d-405d-b123-fea1c67176a6"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""7e07a92f-f678-4a9a-9f05-7ca6d045418a"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""d168abde-d949-4aac-8947-653eff252f47"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""f3b44dd1-becb-4822-ac9e-2068948f0307"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""c193b88a-b3bd-44e3-8d45-d49b35e5a5bc"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""6970f48a-15ab-4534-a3fd-756f0388581c"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""e515ac8e-4a43-402e-97a0-6654f577737a"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""2f350e58-3a8c-4d49-8363-cb9000415273"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""c191b7d3-dd44-4023-9770-33b134afb917"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""5ea252fd-640b-4a09-93a9-de5ea70b04ec"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""29824a23-d479-45c8-b1e5-5e254a236eea"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""e134344d-050b-46e5-8b0d-67df0f12946d"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""924ed37c-ce07-486a-a528-4aee08b861e9"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""c32a7787-0cc0-41b2-8bc3-d82bcc9f4587"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""072182eb-65c1-440d-9985-a492aff91c73"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""4e9264ab-ec12-4235-bf79-82b8e407e0bb"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""d0a55939-3cc0-4c38-bc20-ef9e6ecdeaa4"")>]",1982
-"[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""5448e4e4-42ee-4b07-b58a-4b2abff057bf"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""efd2f49c-a8d6-45ac-80e8-e3455f2cac45"")>]","[<selenium.webdriver.remote.webelement.WebElement (session=""f6ac25a6fa75eef169b60a0ee2a64ae4"", element=""819bce45-0acb-49e1-8301-c05ffa65917b"")>]",1982
+Mexico ,0–0, Soviet Union,1970
+Belgium ,3–0, El Salvador,1970
+Soviet Union ,4–1, Belgium,1970
+Mexico ,4–0, El Salvador,1970
+Soviet Union ,2–0, El Salvador,1970
+Mexico ,1–0, Belgium,1970
+Uruguay ,2–0, Israel,1970
+Italy ,1–0, Sweden,1970
+Uruguay ,0–0, Italy,1970
+Sweden ,1–1, Israel,1970
+Uruguay ,0–1, Sweden,1970
+Israel ,0–0, Italy,1970
+Romania ,0–1, England,1970
+Czechoslovakia ,1–4, Brazil,1970
+Romania ,2–1, Czechoslovakia,1970
+England ,0–1, Brazil,1970
+Romania ,2–3, Brazil,1970
+England ,1–0, Czechoslovakia,1970
+Peru ,3–2, Bulgaria,1970
+West Germany ,2–1, Morocco,1970
+Peru ,3–0, Morocco,1970
+West Germany ,5–2, Bulgaria,1970
+West Germany ,3–1, Peru,1970
+Bulgaria ,1–1, Morocco,1970
+West Germany ,1–0, Chile,1974
+East Germany ,2–0, Australia,1974
+Australia ,0–3, West Germany,1974
+Chile ,1–1, East Germany,1974
+Australia ,0–0, Chile,1974
+East Germany ,1–0, West Germany,1974
+Brazil ,0–0, Yugoslavia,1974
+Zaire ,0–2, Scotland,1974
+Scotland ,0–0, Brazil,1974
+Yugoslavia ,9–0, Zaire,1974
+Scotland ,1–1, Yugoslavia,1974
+Zaire ,0–3, Brazil,1974
+Uruguay ,0–2, Netherlands,1974
+Sweden ,0–0, Bulgaria,1974
+Bulgaria ,1–1, Uruguay,1974
+Netherlands ,0–0, Sweden,1974
+Bulgaria ,1–4, Netherlands,1974
+Sweden ,3–0, Uruguay,1974
+Italy ,3–1, Haiti,1974
+Poland ,3–2, Argentina,1974
+Argentina ,1–1, Italy,1974
+Haiti ,0–7, Poland,1974
+Argentina ,4–1, Haiti,1974
+Poland ,2–1, Italy,1974
+Netherlands ,4–0, Argentina,1974
+Brazil ,1–0, East Germany,1974
+Argentina ,1–2, Brazil,1974
+East Germany ,0–2, Netherlands,1974
+Argentina ,1–1, East Germany,1974
+Netherlands ,2–0, Brazil,1974
+Yugoslavia ,0–2, West Germany,1974
+Sweden ,0–1, Poland,1974
+Poland ,2–1, Yugoslavia,1974
+West Germany ,4–2, Sweden,1974
+Poland ,0–1, West Germany,1974
+Sweden ,2–1, Yugoslavia,1974
+Italy ,2–1, France,1978
+Argentina ,2–1, Hungary,1978
+Italy ,3–1, Hungary,1978
+Argentina ,2–1, France,1978
+France ,3–1, Hungary,1978
+Argentina ,0–1, Italy,1978
+West Germany ,0–0, Poland,1978
+Tunisia ,3–1, Mexico,1978
+West Germany ,6–0, Mexico,1978
+Poland ,1–0, Tunisia,1978
+West Germany ,0–0, Tunisia,1978
+Poland ,3–1, Mexico,1978
+Austria ,2–1, Spain,1978
+Brazil ,1–1, Sweden,1978
+Austria ,1–0, Sweden,1978
+Brazil ,0–0, Spain,1978
+Spain ,1–0, Sweden,1978
+Brazil ,1–0, Austria,1978
+Peru ,3–1, Scotland,1978
+Netherlands ,3–0, Iran,1978
+Scotland ,1–1, Iran,1978
+Netherlands ,0–0, Peru,1978
+Peru ,4–1, Iran,1978
+Scotland ,3–2, Netherlands,1978
+Austria ,1–5, Netherlands,1978
+Italy ,0–0, West Germany,1978
+Netherlands ,2–2, West Germany,1978
+Italy ,1–0, Austria,1978
+Austria ,3–2, West Germany,1978
+Italy ,1–2, Netherlands,1978
+Peru ,0–3, Brazil,1978
+Argentina ,2–0, Poland,1978
+Peru ,0–1, Poland,1978
+Argentina ,0–0, Brazil,1978
+Poland ,1–3, Brazil,1978
+Argentina ,6–0, Peru,1978
+Italy ,0–0, Poland,1982
+Peru ,0–0, Cameroon,1982
+Italy ,1–1, Peru,1982
+Poland ,0–0, Cameroon,1982
+Poland ,5–1, Peru,1982
+Italy ,1–1, Cameroon,1982
+West Germany ,1–2, Algeria,1982
+Chile ,0–1, Austria,1982
+West Germany ,4–1, Chile,1982
+Algeria ,0–2, Austria,1982
+Algeria ,3–2, Chile,1982
+West Germany ,1–0, Austria,1982
+Argentina ,0–1, Belgium,1982
+Hungary ,10–1, El Salvador,1982
+Argentina ,4–1, Hungary,1982
+Belgium ,1–0, El Salvador,1982
+Belgium ,1–1, Hungary,1982
+Argentina ,2–0, El Salvador,1982
+England ,3–1, France,1982
+Czechoslovakia ,1–1, Kuwait,1982
+England ,2–0, Czechoslovakia,1982
+France ,4–1, Kuwait,1982
+France ,1–1, Czechoslovakia,1982
+England ,1–0, Kuwait,1982
+Spain ,1–1, Honduras,1982
+Yugoslavia ,0–0, Northern Ireland,1982
+Spain ,2–1, Yugoslavia,1982
+Honduras ,1–1, Northern Ireland,1982
+Honduras ,0–1, Yugoslavia,1982
+Spain ,0–1, Northern Ireland,1982
+Brazil ,2–1, Soviet Union,1982
+Scotland ,5–2, New Zealand,1982
+Brazil ,4–1, Scotland,1982
+Soviet Union ,3–0, New Zealand,1982
+Soviet Union ,2–2, Scotland,1982
+Brazil ,4–0, New Zealand,1982
+Poland ,3–0, Belgium,1982
+Belgium ,0–1, Soviet Union,1982
+Soviet Union ,0–0, Poland,1982
+West Germany ,0–0, England,1982
+West Germany ,2–1, Spain,1982
+Spain ,0–0, England,1982
+Italy ,2–1, Argentina,1982
+Argentina ,1–3, Brazil,1982
+Italy ,3–2, Brazil,1982
+Austria ,0–1, France,1982
+Austria ,2–2, Northern Ireland,1982
+France ,4–1, Northern Ireland,1982
+Bulgaria ,1–1, Italy,1986
+Argentina ,3–1, South Korea,1986
+Italy ,1–1, Argentina,1986
+South Korea ,1–1, Bulgaria,1986
+South Korea ,2–3, Italy,1986
+Argentina ,2–0, Bulgaria,1986
+Belgium ,1–2, Mexico,1986
+Paraguay ,1–0, Iraq,1986
+Mexico ,1–1, Paraguay,1986
+Iraq ,1–2, Belgium,1986
+Paraguay ,2–2, Belgium,1986
+Iraq ,0–1, Mexico,1986
+Canada ,0–1, France,1986
+Soviet Union ,6–0, Hungary,1986
+France ,1–1, Soviet Union,1986
+Hungary ,2–0, Canada,1986
+Hungary ,0–3, France,1986
+Soviet Union ,2–0, Canada,1986
+Spain ,0–1, Brazil,1986
+Algeria ,1–1, Northern Ireland,1986
+Brazil ,1–0, Algeria,1986
+Northern Ireland ,1–2, Spain,1986
+Northern Ireland ,0–3, Brazil,1986
+Algeria ,0–3, Spain,1986
+Uruguay ,1–1, West Germany,1986
+Scotland ,0–1, Denmark,1986
+West Germany ,2–1, Scotland,1986
+Denmark ,6–1, Uruguay,1986
+Denmark ,2–0, West Germany,1986
+Scotland ,0–0, Uruguay,1986
+Morocco ,0–0, Poland,1986
+Portugal ,1–0, England,1986
+England ,0–0, Morocco,1986
+Poland ,1–0, Portugal,1986
+England ,3–0, Poland,1986
+Portugal ,1–3, Morocco,1986
+Italy ,1–0, Austria,1990
+United States ,1–5, Czechoslovakia,1990
+Italy ,1–0, United States,1990
+Austria ,0–1, Czechoslovakia,1990
+Italy ,2–0, Czechoslovakia,1990
+Austria ,2–1, United States,1990
+Argentina ,0–1, Cameroon,1990
+Soviet Union ,0–2, Romania,1990
+Argentina ,2–0, Soviet Union,1990
+Cameroon ,2–1, Romania,1990
+Argentina ,1–1, Romania,1990
+Cameroon ,0–4, Soviet Union,1990
+Brazil ,2–1, Sweden,1990
+Costa Rica ,1–0, Scotland,1990
+Brazil ,1–0, Costa Rica,1990
+Sweden ,1–2, Scotland,1990
+Brazil ,1–0, Scotland,1990
+Sweden ,1–2, Costa Rica,1990
+United Arab Emirates ,0–2, Colombia,1990
+West Germany ,4–1, Yugoslavia,1990
+Yugoslavia ,1–0, Colombia,1990
+West Germany ,5–1, United Arab Emirates,1990
+West Germany ,1–1, Colombia,1990
+Yugoslavia ,4–1, United Arab Emirates,1990
+Belgium ,2–0, South Korea,1990
+Uruguay ,0–0, Spain,1990
+Belgium ,3–1, Uruguay,1990
+South Korea ,1–3, Spain,1990
+Belgium ,1–2, Spain,1990
+South Korea ,0–1, Uruguay,1990
+England ,1–1, Republic of Ireland,1990
+Netherlands ,1–1, Egypt,1990
+England ,0–0, Netherlands,1990
+Republic of Ireland ,0–0, Egypt,1990
+England ,1–0, Egypt,1990
+Republic of Ireland ,1–1, Netherlands,1990
+United States ,1–1, Switzerland,1994
+Colombia ,1–3, Romania,1994
+Romania ,1–4, Switzerland,1994
+United States ,2–1, Colombia,1994
+Switzerland ,0–2, Colombia,1994
+United States ,0–1, Romania,1994
+Cameroon ,2–2, Sweden,1994
+Brazil ,2–0, Russia,1994
+Brazil ,3–0, Cameroon,1994
+Sweden ,3–1, Russia,1994
+Russia ,6–1, Cameroon,1994
+Brazil ,1–1, Sweden,1994
+Germany ,1–0, Bolivia,1994
+Spain ,2–2, South Korea,1994
+Germany ,1–1, Spain,1994
+South Korea ,0–0, Bolivia,1994
+Bolivia ,1–3, Spain,1994
+Germany ,3–2, South Korea,1994
+Argentina ,4–0, Greece,1994
+Nigeria ,3–0, Bulgaria,1994
+Argentina ,2–1, Nigeria,1994
+Bulgaria ,4–0, Greece,1994
+Argentina ,0–2, Bulgaria,1994
+Greece ,0–2, Nigeria,1994
+Italy ,0–1, Republic of Ireland,1994
+Norway ,1–0, Mexico,1994
+Italy ,1–0, Norway,1994
+Mexico ,2–1, Republic of Ireland,1994
+Italy ,1–1, Mexico,1994
+Republic of Ireland ,0–0, Norway,1994
+Belgium ,1–0, Morocco,1994
+Netherlands ,2–1, Saudi Arabia,1994
+Saudi Arabia ,2–1, Morocco,1994
+Belgium ,1–0, Netherlands,1994
+Belgium ,0–1, Saudi Arabia,1994
+Morocco ,1–2, Netherlands,1994
+Brazil ,2–1, Scotland,1998
+Morocco ,2–2, Norway,1998
+Scotland ,1–1, Norway,1998
+Brazil ,3–0, Morocco,1998
+Brazil ,1–2, Norway,1998
+Scotland ,0–3, Morocco,1998
+Italy ,2–2, Chile,1998
+Cameroon ,1–1, Austria,1998
+Chile ,1–1, Austria,1998
+Italy ,3–0, Cameroon,1998
+Italy ,2–1, Austria,1998
+Chile ,1–1, Cameroon,1998
+Saudi Arabia ,0–1, Denmark,1998
+France ,3–0, South Africa,1998
+South Africa ,1–1, Denmark,1998
+France ,4–0, Saudi Arabia,1998
+France ,2–1, Denmark,1998
+South Africa ,2–2, Saudi Arabia,1998
+Paraguay ,0–0, Bulgaria,1998
+Spain ,2–3, Nigeria,1998
+Nigeria ,1–0, Bulgaria,1998
+Spain ,0–0, Paraguay,1998
+Nigeria ,1–3, Paraguay,1998
+Spain ,6–1, Bulgaria,1998
+South Korea ,1–3, Mexico,1998
+Netherlands ,0–0, Belgium,1998
+Belgium ,2–2, Mexico,1998
+Netherlands ,5–0, South Korea,1998
+Netherlands ,2–2, Mexico,1998
+Belgium ,1–1, South Korea,1998
+FR Yugoslavia ,1–0, Iran,1998
+Germany ,2–0, United States,1998
+Germany ,2–2, FR Yugoslavia,1998
+United States ,1–2, Iran,1998
+United States ,0–1, FR Yugoslavia,1998
+Germany ,2–0, Iran,1998
+England ,2–0, Tunisia,1998
+Romania ,1–0, Colombia,1998
+Colombia ,1–0, Tunisia,1998
+Romania ,2–1, England,1998
+Colombia ,0–2, England,1998
+Romania ,1–1, Tunisia,1998
+Argentina ,1–0, Japan,1998
+Jamaica ,1–3, Croatia,1998
+Japan ,0–1, Croatia,1998
+Argentina ,5–0, Jamaica,1998
+Argentina ,1–0, Croatia,1998
+Japan ,1–2, Jamaica,1998
+Germany ,4–2, Costa Rica,2006
+Poland ,0–2, Ecuador,2006
+Germany ,1–0, Poland,2006
+Ecuador ,3–0, Costa Rica,2006
+Ecuador ,0–3, Germany,2006
+Costa Rica ,1–2, Poland,2006
+England ,1–0, Paraguay,2006
+Trinidad and Tobago ,0–0, Sweden,2006
+England ,2–0, Trinidad and Tobago,2006
+Sweden ,1–0, Paraguay,2006
+Sweden ,2–2, England,2006
+Paraguay ,2–0, Trinidad and Tobago,2006
+Argentina ,2–1, Ivory Coast,2006
+Serbia and Montenegro ,0–1, Netherlands,2006
+Argentina ,6–0, Serbia and Montenegro,2006
+Netherlands ,2–1, Ivory Coast,2006
+Netherlands ,0–0, Argentina,2006
+Ivory Coast ,3–2, Serbia and Montenegro,2006
+Mexico ,3–1, Iran,2006
+Angola ,0–1, Portugal,2006
+Mexico ,0–0, Angola,2006
+Portugal ,2–0, Iran,2006
+Portugal ,2–1, Mexico,2006
+Iran ,1–1, Angola,2006
+United States ,0–3, Czech Republic,2006
+Italy ,2–0, Ghana,2006
+Czech Republic ,0–2, Ghana,2006
+Italy ,1–1, United States,2006
+Czech Republic ,0–2, Italy,2006
+Ghana ,2–1, United States,2006
+Australia ,3–1, Japan,2006
+Brazil ,1–0, Croatia,2006
+Japan ,0–0, Croatia,2006
+Brazil ,2–0, Australia,2006
+Japan ,1–4, Brazil,2006
+Croatia ,2–2, Australia,2006
+South Korea ,2–1, Togo,2006
+France ,0–0, Switzerland,2006
+France ,1–1, South Korea,2006
+Togo ,0–2, Switzerland,2006
+Togo ,0–2, France,2006
+Switzerland ,2–0, South Korea,2006
+Spain ,4–0, Ukraine,2006
+Tunisia ,2–2, Saudi Arabia,2006
+Saudi Arabia ,0–4, Ukraine,2006
+Spain ,3–1, Tunisia,2006
+Saudi Arabia ,0–1, Spain,2006
+Ukraine ,1–0, Tunisia,2006
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
